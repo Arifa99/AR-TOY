@@ -1,5 +1,5 @@
 # AR-TOY
- A Hybrid toy for kids that help them to lean about INDIA and it's culture in an easy & fun way. We uses Augmented Relity Technology for making there learning and remembering process easy by providing 3D visualization of Images.
+ A Hybrid toy for kids that help them to lean about INDIA and it's culture in an easy & fun way. We uses Augmented Reality Technology for making there learning and remembering process easy by providing 3D visualization of Images.
 # Our toy has three phases:
 
 # 1. Problem Solving Phase:
